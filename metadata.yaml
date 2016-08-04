@@ -1,0 +1,30 @@
+_repo: The-Agrarian-Crusade--A-Chronicle-of-the-Farmer-in-Politics_2899
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buck, Solon J. (Solon Justus)
+    alias: Buck, Solon Justus
+    birthdate: 1884
+    deathdate: 1962
+    gutenberg_agent_id: '1067'
+    url: http://www.gutenberg.org/2009/agents/1067
+description: Chronicles of America series; v. 45
+gutenberg_bookshelf:
+- United States
+- Children's History
+gutenberg_issued: '2001-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Agriculture -- United States -- Societies, etc.'
+- !lcsh 'United States -- Politics and government -- 1865-'
+- !lcsh 'Political parties -- United States'
+- GITenberg
+title: 'The Agrarian Crusade: A Chronicle of the Farmer in Politics'
+url: http://www.gutenberg.org/ebooks/2899
